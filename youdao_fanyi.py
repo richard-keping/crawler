@@ -67,7 +67,7 @@ def youdao(key):
 
     headers = {
         "Accept": "application/json,text/javascript,*/*;q = 0.01",
-        "Accept-Encoding": "gzip,deflate",      #### 啥意思。。查。。有它就会错误
+        "Accept-Encoding": "gzip,deflate",
         "Accept-Language": "zh-CN,zh;q = 0.8",
         "Connection": "keep-alive",
         # "Content-Length": str(len(data_data)),
